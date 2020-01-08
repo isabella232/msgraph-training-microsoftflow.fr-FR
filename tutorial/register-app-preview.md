@@ -10,7 +10,7 @@ Choisissez l’élément de menu **nouvel enregistrement** en haut du panneau **
 
 ![Capture d’écran du panneau inscriptions des applications dans le centre d’administration Azure Active Directory](./images/app-reg-preview2.png)
 
-Entrez `MS Graph Batch App` dans le champ **nom** . Dans la section **types de comptes pris en charge** , sélectionnez **comptes dans n’importe quel annuaire d’organisation**. Laissez la section **URI** de redirection vide, puis choisissez **inscrire**.
+Entrez `MS Graph Batch App` dans le champ **nom** . Dans la section **types de comptes pris en charge** , sélectionnez **comptes dans n’importe quel annuaire d’organisation**. Laissez la section **URI de redirection** vide, puis choisissez **inscrire**.
 
 ![Capture d’écran du Registre enregistrer une application dans le centre d’administration Azure Active Directory](./images/app-reg-preview3.png)
 

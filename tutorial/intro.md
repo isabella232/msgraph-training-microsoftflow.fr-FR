@@ -9,9 +9,9 @@ Cet atelier couvre les deux défis ci-dessus. Tout d’abord, vous allez créer 
 > [!NOTE]
 > Il s’agit d’un didacticiel sur la création d’un connecteur personnalisé pour une utilisation dans Microsoft Flow et Azure LogicApps. Ce didacticiel part du principe que vous avez lu la [rubrique Custom Connector Overview](https://docs.microsoft.com/connectors/custom-connectors/) pour comprendre le processus.
 
-## <a name="prerequisites"></a>Conditions préalables
+## <a name="prerequisites"></a>Conditions requises
 
-Pour effectuer cet exercice dans ce billet, vous avez besoin des éléments suivants:
+Pour effectuer cet exercice dans ce billet, vous avez besoin des éléments suivants :
 
 - Accès administrateur à une location Office 365. Si vous n’en avez pas, reportez-vous au programme pour les [développeurs Office 365](https://developer.microsoft.com/office/dev-program) pour vous inscrire à un client de développeur gratuit.
 - Accès à [Microsoft Flow](https://flow.microsoft.com/).

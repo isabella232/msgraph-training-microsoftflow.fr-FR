@@ -6,7 +6,7 @@ Ouvrez l' [Explorateur Microsoft Graph](https://developer.microsoft.com/graph/gr
 
 ![Capture d’écran de la boîte de dialogue Afficher plus d’exemples dans l’afficheur Graph](./images/graph-explore1.png)
 
-Sélectionnez la requête **effectuer** des exemples de requêtes parallèles dans le menu de gauche. Cliquez sur le bouton **exécuter la requête** en haut à droite de l’écran.
+Sélectionnez la requête effectuer des exemples de requêtes **parallèles** dans le menu de gauche. Cliquez sur le bouton **exécuter la requête** en haut à droite de l’écran.
 
 L’exemple d’opération par lot génère trois requêtes HTTP GET et émet un seul billet HTTP vers `/v1.0/$batch` le point de terminaison Graph.
 
@@ -90,7 +90,7 @@ Par exemple, exécutez les deux requêtes suivantes dans l' [Explorateur Microso
 
 ![Graph-explore-4](./images/graph-explore4.png)
 
-Quelles sont les différences entre les résultats renvoyés? Essayez d’autres requêtes pour identifier certaines des différences.
+Quelles sont les différences entre les résultats renvoyés ? Essayez d’autres requêtes pour identifier certaines des différences.
 
 En plus du contenu de réponse du `/v1.0` et `/beta` des points de terminaison, il est important de comprendre les erreurs possibles lorsqu’une demande de traitement par lots est effectuée pour laquelle le consentement des autorisations n’a pas été accordé. Par exemple, voici un élément de demande de lot pour créer un bloc-notes OneNote.
 

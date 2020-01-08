@@ -30,7 +30,7 @@ Sur le panneau **activer l’accès** , faites défiler jusqu’à la section **
 
  ![Capture d’écran du panneau d’accès activé](./images/app-perms3.png)
 
-Sélectionnez l’élément de menu **clés** sur le panneau **paramètres** . Entrez `forever` dans la **Description** de la clé et sélectionnez **ne** pas expirer dans le menu déroulant **durée** . Sélectionnez **Enregistrer** en haut du panneau de **clés** . Copiez la valeur de clé de la nouvelle clé. Vous en aurez besoin dans l’exercice suivant.
+Sélectionnez l’élément de menu **clés** sur le panneau **paramètres** . Entrez `forever` dans la **Description** de la clé et sélectionnez **ne pas expirer** dans le menu déroulant **durée** . Sélectionnez **Enregistrer** en haut du panneau de **clés** . Copiez la valeur de clé de la nouvelle clé. Vous en aurez besoin dans l’exercice suivant.
 
 ![Capture d’écran du panneau des touches](./images/app-key1.png)
 

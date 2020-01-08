@@ -69,11 +69,7 @@ body('Batch_PUT-team').responses[0].body.id
 
 Sélectionnez **Enregistrer**, puis **tester** pour exécuter le flux. Sélectionnez la case d’option **j’exécuterai le déclencheur** , puis choisissez **Enregistrer & test**. Entrez un nom de groupe unique dans le champ **nom** sans espaces, puis choisissez **exécuter le flux** pour exécuter le flux.
 
-![Capture d’écran de la boîte de dialogue flux de série](./images/flow-channel3.png)
-
-Une fois le flux démarré, cliquez sur le lien **voir activité d’exécution de flux** , puis choisissez le flux en cours d’exécution pour afficher le journal d’activité.
-
-Une fois le flux terminé, la sortie finale de l' `Batch POST-channels` action est associée à une réponse d’état http 201 pour chaque canal créé.
+Une fois le flux démarré, cliquez sur le bouton **Terminer** pour afficher le journal d’activité. Une fois le flux terminé, la sortie finale de l' `Batch POST-channels` action est associée à une réponse d’état http 201 pour chaque canal créé.
 
 ![Capture d’écran du journal d’activité de flux réussi](./images/flow-channel2.png)
 

@@ -26,17 +26,17 @@ Sur la page Configuration du connecteur, cliquez sur le lien **sécurité** dans
 - Clé **secrète client**: la clé que vous avez créée dans l’exercice précédent
 - **URL de connexion**:`https://login.windows.net`
 - **ID de client**:`common`
-- **URL**de la `https://graph.microsoft.com` ressource: (sans finalisation/)
+- **URL**de la `https://graph.microsoft.com` ressource : (sans finalisation/)
 - **Étendue**: laisser vide
 
 Sélectionnez **créer un connecteur** dans la partie supérieure droite.
 
 ![Capture d’écran de l’onglet sécurité dans la configuration du connecteur](./images/flow-conn4.png)
 
-Une fois le connecteur créé, copiez l' **URL**de redirection générée.
+Une fois le connecteur créé, copiez l' **URL de redirection**générée.
 
 ![Capture d’écran de l’URL de redirection générée](./images/flow-conn5.png)
 
-Revenez à l’application inscrite dans le [portail Azure](https://aad.portal.azure.com) que vous avez créé dans l’exercice précédent. Sélectionnez **URL de réponse** dans le panneau **paramètres** . Ajoutez l' **URL** de redirection que vous avez copiée en tant qu' **URL de réponse**supplémentaire. Enregistrez l’application dans le portail Azure Active Directory.
+Revenez à l’application inscrite dans le [portail Azure](https://aad.portal.azure.com) que vous avez créé dans l’exercice précédent. Sélectionnez **URL de réponse** dans le panneau **paramètres** . Ajoutez l' **URL de redirection** que vous avez copiée en tant qu' **URL de réponse**supplémentaire. Enregistrez l’application dans le portail Azure Active Directory.
 
 ![Capture d’écran du panneau URL de réponse dans le portail Azure](./images/flow-conn6.png)
